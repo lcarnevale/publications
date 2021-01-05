@@ -26,6 +26,8 @@
 #### 2017
 1. Antonio Celesti and Antonino Galletta and Lorenzo Carnevale and Maria Fazio and Aime Ĺay-Ekuakille and Massimo Villari. "*An IoT Cloud System for Traffic Monitoring and Vehicular Accidents Prevention Based on Mobile Sensor Data Processing*". Sensors Journal, IEEE, vol. 18-12, pp. 4795-4802, ISSN: 1530-437X (November 2017) (doi: [10.1109/JSEN.2017.2777786](https://doi.org/10.1109/JSEN.2017.2777786)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201711-paper-journal-ieee-sensors.bib)]
 
+2. Antonino Galletta and Lorenzo Carnevale and Antonio Celesti and Maria Fazio and Massimo Villari. "*A Cloud-Based System for Improving Retention Marketing Loyalty Programs in Industry 4.0: A Study on Big Data Storage Implications*". IEEE Access, IEEE, vol. 6, pp. 5485-5492, ISSN: 2169-3536 (November 2017) (doi: [10.1109/ACCESS.2017.2776400](https://doi.org/10.1109/ACCESS.2017.2776400)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201711-paper-journal-ieee-access.bib)]
+
 
 ## Conference Papers
 
