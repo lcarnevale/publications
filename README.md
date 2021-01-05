@@ -49,3 +49,5 @@
 
 #### 2017
 1. Lorenzo Carnevale and Antonio Celesti and Maria Fazio and Placido Bramanti and Massimo Villari. "*Heart Disorder Detection with Menard Algorithm on Apache Spark*". Service-Oriented and Cloud Computing, ESOCC 2017, Oslo, Norwey, September 2017, pp. 229-237 (doi: [10.1007/978-3-319-67262-5_17](https://doi.org/10.1007/978-3-319-67262-5_17)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201710-paper-conference-springer-esocc.bib)]
+
+2. Antonino Galletta and Lorenzo Carnevale and Antonio Celesti and Maria Fazio and Massimo Villari. "*BOSS: A Multitenancy Ad-Hoc Service Orchestrator for Federated Openstack Clouds*". 2017 IEEE 5th International Conference on Future Internet of Things and Cloud (FiCloud), Prague, Czech Republic, August 2017, pp. 351-357 (doi: [10.1109/FiCloud.2017.10](https://doi.org/10.1109/FiCloud.2017.10)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201708-paper-conference-ieee-ficloud.bib)]
