@@ -21,6 +21,9 @@
 
 2. Lorenzo Carnevale and Rocco Salvatore Calabrò and Antonio Celesti and Antonino Leo and Maria Fazio and Placido Bramanti and Massimo Villari. "*Toward Improving Robotic-Assisted Gait Training: Can Big Data Analysis Help Us?*". Internet of Things Journal, IEEE, vol. 6-2, pp. 1419-1426, ISSN: 2327-4662 (July 2018) (doi: [10.1109/JIOT.2018.2855937](https://doi.org/10.1109/JIOT.2018.2855937)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201807-paper-journal-ieee-internet_of_things.bib)]
 
+3. Antonino Galletta and Lorenzo Carnevale and Alessia Bramanti and Maria Fazio. "*An Innovative Methodology for Big Data Visualization for Telemedicine*". Transactions on Industrial Informatics, IEEE, vol. 15-1, pp. 490-497, ISSN: 1551-3203 (May 2018) (doi: [10.1109/TII.2018.2842234](https://doi.org/10.1109/TII.2018.2842234)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201805-paper-journal-ieee-transactions_on_industrial_informatics.bib)]
+
+
 ## Conference Papers
 
 #### 2019
