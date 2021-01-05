@@ -23,6 +23,9 @@
 
 3. Antonino Galletta and Lorenzo Carnevale and Alessia Bramanti and Maria Fazio. "*An Innovative Methodology for Big Data Visualization for Telemedicine*". Transactions on Industrial Informatics, IEEE, vol. 15-1, pp. 490-497, ISSN: 1551-3203 (May 2018) (doi: [10.1109/TII.2018.2842234](https://doi.org/10.1109/TII.2018.2842234)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201805-paper-journal-ieee-transactions_on_industrial_informatics.bib)]
 
+#### 2017
+1. Antonio Celesti and Antonino Galletta and Lorenzo Carnevale and Maria Fazio and Aime Ĺay-Ekuakille and Massimo Villari. "*An IoT Cloud System for Traffic Monitoring and Vehicular Accidents Prevention Based on Mobile Sensor Data Processing*". Sensors Journal, IEEE, vol. 18-12, pp. 4795-4802, ISSN: 1530-437X (November 2017) (doi: [10.1109/JSEN.2017.2777786](https://doi.org/10.1109/JSEN.2017.2777786)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201711-paper-journal-ieee-sensors.bib)]
+
 
 ## Conference Papers
 
