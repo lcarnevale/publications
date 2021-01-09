@@ -63,3 +63,8 @@
 5. Lorenzo Carnevale and Antonio Celesti and Maria Fazio and Placido Bramanti and Massimo Villari. "*How to enable clinical workflows to integrate big healthcare data*". 2017 IEEE Symposium on Computers and Communications (ISCC), Heraklion, Greece, July 2017, pp. 857-862 (doi: [10.1109/ISCC.2017.8024634](https://doi.org/10.1109/ISCC.2017.8024634)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201707-paper-conference-ieee-iscc.bib)]
 
 6. Fabrizio Celesti and Antonio Celesti and Lorenzo Carnevale and Antonino Galletta and Salvatore Campo and Agata Romano and Placido Bramanti and Massimo Villari. "*Big data analytics in genomics: The point on Deep Learning solutions*". 2017 IEEE Symposium on Computers and Communications (ISCC), Heraklion, Greece, July 2017, pp. 306-309 (doi: [10.1109/ISCC.2017.8024547](https://doi.org/10.1109/ISCC.2017.8024547)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201707-paper-conference-ieee-iscc-2.bib)]
+
+## Patents
+
+#### 2020
+1. Reti mesh Infrastrucreless auto-configuranti". Numero di priorità: 10201800001050
