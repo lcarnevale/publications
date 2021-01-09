@@ -67,4 +67,4 @@
 ## Patents
 
 #### 2020
-1. Reti mesh Infrastrucreless auto-configuranti". Numero di priorità: 10201800001050
+1. Massimo Villari and Alina Mihaela Buzachis and Lorenzo Carnevale and Antonino Galletta and Francesco Martella and Claudio Cincotta. "*Sistema di comunicazione che utilizza una rete mesh*". Ministero dello Sviluppo Economico, Direzione  Generale per la Tutela della Priprietà Industriale, Ufficio Italiano Brevetti e Marchi. Identifier: 102018000010500
